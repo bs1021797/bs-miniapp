@@ -2,7 +2,8 @@
 个人版小程序
 
 ## 开发服务器目录
-node-server
+node-server 
+启动：nodemon index.js
 
 ## 微信小程序目录
 sbear-mall
