@@ -1,5 +1,6 @@
 # bs-miniapp
-个人版小程序
+个人版小程序  简单适合入门
+node搭建服务器
 
 ## 开发服务器目录
 node-server 
